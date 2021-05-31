@@ -1,5 +1,5 @@
 ---
-title: Home
+title: norta
 has_more_link: true
 more_link_text: Keep reading
 seo:
